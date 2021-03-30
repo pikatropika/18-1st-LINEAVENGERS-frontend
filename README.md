@@ -13,7 +13,7 @@
 ## 기술 스택
 
 - 프론트엔드 : HTML, CSS / JavaScript(ES6+) / React / SCSS
-- 백엔드 : Python / Django / MySQL / Linux
+- 백엔드 : Python / Django / MySQL / Linux / 
 
 ## 커뮤니케이션 및 버전 관리
 
@@ -22,6 +22,8 @@
 - GitHub
 
 ## 구현 기능
+
+![경현001](https://user-images.githubusercontent.com/76834744/112934371-981d2e00-915c-11eb-9edd-d3238380be20.gif)
 
 - 회원가입 / 로그인
 - 메인 페이지 / Header & Footer
