@@ -23,7 +23,7 @@
 
 ## 구현 기능
 
-![경현001](https://user-images.githubusercontent.com/76834744/112934371-981d2e00-915c-11eb-9edd-d3238380be20.gif)
+![경현 002](https://user-images.githubusercontent.com/76834744/112935162-3067e280-915e-11eb-91c6-0d7f052d73a4.gif)
 
 - 회원가입 / 로그인
 - 메인 페이지 / Header & Footer
